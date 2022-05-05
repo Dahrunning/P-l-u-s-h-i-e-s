@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    font-family: 'Square Peg', cursive;
+    border: 3px double;
+    background-color: lavender;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Square Peg', cursive;
+    border: 3px double;
+    background-color: lavender;
+}
+
+.plush {
+    display: flex;
+    justify-content: space-around;
+    background-color: #bdfca2;
+}
+
+
+.plushies {
+    border: 4px double;
+    height: 150px;
+    width: 150px;
+    background-color: #fcc9a2;
+}
+
+.titles {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Square Peg', cursive;
+    font-size: 18px;
+    background-color: #a2fcfc;
+}
+.descriptions {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Square Peg', cursive;
+    font-size: 18px;
+    background-color: #a2fcfc;
+}
